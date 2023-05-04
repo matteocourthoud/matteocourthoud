@@ -2,6 +2,9 @@
 
 Hi all 👋
 
-I am a fifth year PhD student 🎓 in Economics at the University of Zürich 🇨🇭 under the supervision of professor Gregory Crawford. I do mostly research at the intersection between economics, computer science and competition policy. 
+I am a PhD student in Economics at the University of Zürich. I am passionate about causal inference and data science.
 
-If you want to find more about me, I have a webstite with stuff: https://matteocourthoud.github.io/
+Linkedin: https://www.linkedin.com/in/matteo-courthoud/
+Twitter: https://twitter.com/matteo.courthoud/
+Medium: https://medium.com/@matteo.courthoud/
+Website: https://matteocourthoud.github.io/
