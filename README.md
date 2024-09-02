@@ -2,7 +2,7 @@
 
 Hi all 👋
 
-I am a PhD student in Economics at the University of Zürich. I am passionate about causal inference and data science.
+I an Applied Scientist @ Zalando, working in both experimental and observational causal inference. I hold a PhD in Economics from the University of Zurich.
 
 - Linkedin: https://www.linkedin.com/in/matteo-courthoud/
 - Twitter: https://twitter.com/matteocourthoud/
