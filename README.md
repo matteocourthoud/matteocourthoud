@@ -2,7 +2,7 @@
 
 Hi all 👋
 
-I an Applied Scientist @ Zalando, working in both experimental and observational causal inference. I hold a PhD in Economics from the University of Zurich.
+I am Applied Scientist @ Zalando, working in both experimental and observational causal inference.
 
 - Linkedin: https://www.linkedin.com/in/matteo-courthoud/
 - Twitter: https://twitter.com/matteocourthoud/
